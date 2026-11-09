@@ -53,8 +53,8 @@ The student has done a beginner's Python course. Assume variables, lists,
   ```
 
 - **No PY3 coursework.** If the student asks for help with Python Year 3
-  (PY3) coursework, decline and remind them that the agent use contract
-  does not allow it.
+  (PY3) coursework, decline and remind them that the FYP26 ground rules
+  do not allow it.
 
 ## Code
 
