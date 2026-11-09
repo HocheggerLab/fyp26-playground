@@ -1,0 +1,101 @@
+Plate reader export,GloMax,2026-10-12 14:32
+Assay,CellTiter-Glo 2.0,Integration 0.5 s
+Operator,demo
+well,cell_line,treatment,conc_uM,Signal (RLU)
+A1,parental,dmso,,55057
+A2,parental,DMSO ,,49971
+A3,parental,dTAG-13,0.001,51394
+A4,parental,dTAG-13,0.003,51201
+A5,parental,dTAG-13,0.01,51873
+A6,parental,dTAG-13,0.03,47213
+A7,parental,dTAG-13,0.1,53737
+A8,parental,dTAG-13,0.3,51025
+A9,parental,dTAG-13,1,46647
+A10,parental,dTAG-13,3,49363
+A11,parental,staurosporine,1,3445
+A12,parental,medium only,,276
+B1,parental,DMSO ,,51657
+B2,parental,dmso,,OVRFLW
+B3,parental,dTAG-13,0.001,52523
+B4,parental,dTAG-13,0.003,51552
+B5,parental,dTAG-13,0.01,52700
+B6,parental,dTAG-13,0.03,50309
+B7,parental,dTAG-13,0.1,52554
+B8,parental,dTAG-13,0.3,52316
+B9,parental,dTAG-13,1,52692
+B10,parental,dTAG-13,3,44742
+B11,parental,staurosporine,1,2230
+B12,parental,medium only,,366
+C1,parental,DMSO,,56012
+C2,parental,dmso,,52775
+C3,parental,dTAG-13,0.001,49444
+C4,parental,dTAG-13,0.003,51046
+C5,parental,dTAG-13,0.01,49743
+C5,parental,dTAG-13,0.01,29120
+C6,parental,dTAG-13,0.03,49854
+C7,parental,dTAG-13,0.1,48920
+C8,parental,dTAG-13,0.3,48788
+C9,parental,dTAG-13,1,52727
+C10,parental,dTAG-13,3,46339
+C11,parental,staurosporine,1,2791
+C12,parental,medium only,,402
+D1,parental,DMSO,,54123
+D2,parental,dmso,,50025
+D3,parental,dTAG-13,0.001,53546
+D4,parental,dTAG-13,0.003,50884
+D5,parental,dTAG-13,0.01,51169
+D6,parental,dTAG-13,0.03,53363
+D7,parental,dTAG-13,0.1,51766
+D8,parental,dTAG-13,0.3,50011
+D9,parental,dTAG-13,1,49123
+D10,parental,dTAG-13,3,47655
+D11,parental,staurosporine,1,2759
+D12,parental,medium only,,334
+E1,FKBP12F36V-tagged,DMSO,,44522
+E2,FKBP12F36V-tagged,dmso,,50814
+E3,FKBP12F36V-tagged,dTAG-13,0.001,53601
+E4,FKBP12F36V-tagged,dTAG-13,0.003,52612
+E5,FKBP12F36V-tagged,dTAG-13,0.01,45868
+E6,FKBP12F36V-tagged,dTAG-13,0.03,31665
+E7,FKBP12F36V-tagged,dTAG-13,0.1,15539
+E8,FKBP12F36V-tagged,dTAG-13,0.3,5430
+E9,FKBP12F36V-tagged,dTAG-13,1,7520
+E10,FKBP12F36V-tagged,dTAG-13,3,5840
+E11,FKBP12F36V-tagged,staurosporine,1,1863
+E12,FKBP12F36V-tagged,medium only,,296
+F1,FKBP12F36V-tagged,dmso,,50187
+F2,FKBP12F36V-tagged,dmso,,51257
+F3,FKBP12F36V-tagged,dTAG-13,0.001,49682
+F4,FKBP12F36V-tagged,dTAG-13,0.003,48257
+F5,FKBP12F36V-tagged,dTAG-13,0.01,45641
+F6,FKBP12F36V-tagged,dTAG-13,0.03,33149
+F7,FKBP12F36V-tagged,dTAG-13,0.1,15442
+F8,FKBP12F36V-tagged,dTAG-13,0.3,4970
+F9,FKBP12F36V-tagged,dTAG-13,1,3775
+F10,FKBP12F36V-tagged,dTAG-13,3,7351
+F11,FKBP12F36V-tagged,staurosporine,1,2528
+F12,FKBP12F36V-tagged,medium only,,329
+G1,FKBP12F36V-tagged,dmso,,49416
+G2,FKBP12F36V-tagged,DMSO,,52264
+G3,FKBP12F36V-tagged,dTAG-13,0.001,51077
+G4,FKBP12F36V-tagged,dTAG-13,0.003,52720
+G5,FKBP12F36V-tagged,dTAG-13,0.01,45506
+G6,FKBP12F36V-tagged,dTAG-13,0.03,31892
+G7,FKBP12F36V-tagged,dTAG-13,0.1,1950
+G8,FKBP12F36V-tagged,dTAG-13,0.3,8640
+G9,FKBP12F36V-tagged,dTAG-13,1,5401
+G10,FKBP12F36V-tagged,dTAG-13,3,6789
+G11,FKBP12F36V-tagged,staurosporine,1,2838
+G12,FKBP12F36V-tagged,medium only,,318
+H1,FKBP12F36V-tagged,dmso,,52105
+H2,FKBP12F36V-tagged,DMSO ,,47660
+H3,FKBP12F36V-tagged,dTAG-13,0.001,50482
+H4,FKBP12F36V-tagged,dTAG-13,0.003,49726
+H5,FKBP12F36V-tagged,dTAG-13,0.01,49239
+H6,FKBP12F36V-tagged,dTAG-13,0.03,31157
+H7,FKBP12F36V-tagged,dTAG-13,0.1,18092
+H8,FKBP12F36V-tagged,dTAG-13,0.3,7309
+H9,FKBP12F36V-tagged,dTAG-13,1,4353
+H10,FKBP12F36V-tagged,dTAG-13,3,5483
+H11,FKBP12F36V-tagged,staurosporine,1,2731
+H12,FKBP12F36V-tagged,medium only,,312
